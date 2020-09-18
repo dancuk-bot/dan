@@ -1,0 +1,4 @@
+  File "sby.py", line 3324, in executeOp
+    executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey)
+  File "sby.py", line 1343, in executeCmd
+    line.sendMessage(to, anzing)

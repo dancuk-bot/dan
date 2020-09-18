@@ -1,0 +1,4 @@
+  File "sby.py", line 2822, in executeOp
+    executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey)
+  File "sby.py", line 578, in executeCmd
+    foro(to, str(helpMsg3), contentMetadata=a)

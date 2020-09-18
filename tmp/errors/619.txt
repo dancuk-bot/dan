@@ -1,0 +1,4 @@
+  File "sby.py", line 3381, in executeOp
+    executeCmd(msg, text, txt, cmd, msg_id, receiver, sender, to, setKey)
+  File "sby.py", line 475, in executeCmd
+    helpMsg3 = helpmsg3()

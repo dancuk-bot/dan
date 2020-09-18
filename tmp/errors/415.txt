@@ -1,0 +1,14 @@
+  File "sby.py", line 2945, in executeOp
+    yepzLove(to, 'Execute command error, ' + str(error))
+  File "sby.py", line 482, in yepzLove
+    "url": "https://obs.line-scdn.net/{}".format(line.getContact(myMid).pictureStatus),
+  File "/storage/emulated/0/Download/Aybot/Sby/linepy/talk.py", line 10, in checkLogin
+    return func(*args, **kwargs)
+  File "/storage/emulated/0/Download/Aybot/Sby/linepy/talk.py", line 479, in getContact
+    return self.talk.getContact(mid)
+  File "/storage/emulated/0/Download/Aybot/Sby/akad/TalkService.py", line 4462, in getContact
+    self.send_getContact(id)
+  File "/storage/emulated/0/Download/Aybot/Sby/akad/TalkService.py", line 4466, in send_getContact
+    self._oprot.writeMessageBegin('getContact', TMessageType.CALL, self._seqid)
+  File "/data/data/com.termux/files/usr/lib/python3.7/site-packages/thrift/protocol/TCompactProtocol.py", line 156, in writeMessageBegin
+    assert self.state == CLEAR

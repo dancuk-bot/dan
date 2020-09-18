@@ -1,0 +1,13 @@
+
+820 : foro() got an unexpected keyword argument 'contentMetadata'
+238 : local variable 'babi' referenced before assignment
+506 : Object of type function is not JSON serializable
+138 : encoding without a string argument
+415 : 
+162 : 
+481 : 
+142 : name 'noobcoder' is not defined
+708 : name 'anzing' is not defined
+724 : local variable 'babi' referenced before assignment
+619 : name 'helpmsg3' is not defined
+506 : 'Contact' object has no attribute 'profile'
